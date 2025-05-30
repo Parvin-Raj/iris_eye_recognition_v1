@@ -36,3 +36,8 @@ IRIS_RECOGNITION/
 
 
 
+
+
+<img width="175" alt="eye recognition file structure" src="https://github.com/user-attachments/assets/3534330e-e005-4d51-b9c5-223365286106" />
+
+
