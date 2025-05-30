@@ -23,3 +23,15 @@ IRIS_RECOGNITION/
 ├── requirements.txt
 ├── run.py
 └── train_convnext_tiny.py
+
+
+<img width="854" alt="eye_recognition_register" src="https://github.com/user-attachments/assets/08232bc4-9cd9-4fd5-820a-e98b59a37a61" />
+
+
+
+
+
+
+
+
+
